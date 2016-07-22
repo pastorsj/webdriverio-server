@@ -3,7 +3,10 @@
 [![npm version](https://badge.fury.io/js/webdriverio-server.svg)](http://badge.fury.io/js/webdriverio-server)
 [![build status](https://travis-ci.org/ciena-blueplanet/webdriverio-server.svg?branch=master)](https://travis-ci.org/ciena-blueplanet/webdriverio-server)
 
-If you want a remote server to do selenium testing, this is a better way
+If you want a remote server to do selenium testing, this is a better way. This
+project provides a full solution for setting up an automated selenium server
+that will allow test-jobs to be submitted to it, run those tests, and allow the
+test results to be picked up asynchronously.
 
 ## Setup
 
