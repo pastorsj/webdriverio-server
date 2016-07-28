@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "ember": "registry:dt/ember#2.0.0+20160701061136",
+    "express": "registry:dt/express#4.0.0+20160708185218",
+    "node": "registry:dt/node#6.0.0+20160720070758"
+  }
+}

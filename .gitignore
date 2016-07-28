@@ -10,3 +10,6 @@ dist/
 dump.rdb
 config.json
 npm-debug.log
+coverage/
+coverage-backend/
+typings/
